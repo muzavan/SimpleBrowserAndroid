@@ -1,0 +1,5 @@
+#for every file in bin
+bin/
+
+#for every image resource
+*.png
